@@ -2,6 +2,8 @@ remote_theme: rundocs/jekyll-rtd-theme
 title: Yingchun's homepage
 description: Bookmark this to keep an eye on my project updates!
 
+markdown: kramdown
+
 readme_index:
   with_frontmatter: true
 
