@@ -1,3 +1,0 @@
-# Git
-
-source: `{{ page.path }}`

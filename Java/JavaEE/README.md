@@ -1,3 +1,0 @@
-# JavaEE
-
-source: `{{ page.path }}`
