@@ -1,3 +1,3 @@
-# Git
+# JavaEE
 
 source: `{{ page.path }}`
